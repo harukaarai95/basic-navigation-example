@@ -140,3 +140,7 @@ nav ul li a:active {
     color: rgb(92, 229, 0);
 }
 
+.box{
+    box-sizing: border-box;
+    height: 70vh;
+}
